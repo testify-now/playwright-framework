@@ -18,7 +18,7 @@ This framework demonstrates best practices and cross-browser coverage on [sauced
 ---
 
 ## 📁 Project Structure (Maven-style)
-playwright-framework/
+```playwright-framework/
 ├── src/
 │ ├── main/
 │ │ ├── pageObjects/
@@ -33,7 +33,7 @@ playwright-framework/
 ├── .gitignore
 ├── package.json
 ├── README.md
-
+```
 
 ---
 
